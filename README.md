@@ -1,2 +1,62 @@
-# us-apple-account-setup-assistant
-Windows-based Chinese AI Skill for official Apple Account setup guidance. Independent project; not an account seller.
+# US Apple Account Setup Assistant
+
+**Windows-Based AI Guided Setup for US App Store**
+
+面向中文用户的 AI Skill：用 Windows 电脑，逐步理解 Apple 官方账号创建、首次商店审核及错误提示。
+
+## 正版项目与购买状态
+
+创作者：**WinAISkillLab**
+
+[爱发电项目主页](https://afdian.com/a/windowsaiskill)
+
+**当前为开售准备阶段，暂未接受本商品付款。** 正在核验创作者认证及自动交付。就绪后，本页会更新到具体商品购买链接。
+
+首发计划：中文版自助包 ¥49，限量10份；后续计划售价 ¥69。这是待上线的价格计划，不是历史成交价。尚未发布六语言组合包，不接受相应款项。
+
+## 它做什么
+
+- 先了解 Windows 版本、是否已有本人账号、当前页面。
+- 每次只指导当前一步，解释英文菜单与错误。
+- 分开“新建账号”“已有账号首次 Review”“修改地区”。
+- 有图像输入能力时分析已脱敏截图；平台不能看图时说明限制。
+- Windows 为主要设置设备，iPhone/iPad 只用于最后商店登录与下载验证。
+
+本产品是可读的 Skill 指令文件，给支持 Agent Skills 的 AI 环境加载，**不是自动运行的注册软件，也不是 Apple 账号**。AI 工具的订阅、模型、网络及设备不随包提供。
+
+## 真实案例与证据边界
+
+本项目基于一次 Windows 操作记录：官方网页创建并验证；Windows iTunes 原生首次审核出现 None；本人补全适用资料后，反馈 iPhone 和 iPad 均可登录并下载免费应用。
+
+没有保留成功截图，不制作假的成功图。None 的出现有历史操作记录，最终设备结果为本人反馈。没有跨用户成功率数据，不保证所有地区、账号、网络或 App 都可用。
+
+## 首发中文版拟交付
+
+- Skill 主文件与界面元数据；
+- Windows 流程参考；
+- 14 类错误诊断；
+- 中文安装说明与 FAQ；
+- 版本及许可文件。
+
+格式校验和本地安装文件检查已通过；当前 Codex 会话已经发现并可读取该技能。独立新用户复现、其他 AI 平台及其他语言尚未验证。最终商品会列明交付时的真实测试范围。
+
+## 买前确认
+
+需要本人账号、适用的真实资料，并遵守 Apple 地区要求及所在地法律。密码、验证码、恢复密钥只在官方页面本人输入，不发给 AI。
+
+不提供通用地址、电话、接码、他人账号或付款资料，不保证必出 None。部分免费 App 可能要求付款方式或更高系统版本。改区是单独的官方流程，本案例未实测。
+
+自助包不含远程操作、一对一陪同或终身更新。交付异常、明显与描述不符及退款按商品页、平台规则和适用法律处理。
+
+## 公开样例与权利
+
+[查看单步交互样例](SAMPLE.md)。本仓库只放公开介绍和样例，完整技能不会上传到公开仓库。可以链接本页了解正版项目，不能据此转售或分发完整付费内容。
+
+本项目独立制作，与 Apple、OpenAI、GitHub、爱发电无官方隶属或授权背书关系。官方产品名称归各权利人所有；不对 Apple 的公开操作方法主张独占权。
+
+## Apple 官方资料
+
+- [创建 Apple Account](https://support.apple.com/en-us/108647)
+- [Windows iTunes 账户指南](https://support.apple.com/guide/itunes/set-up-and-view-an-account-itns56cad36/windows)
+- [付款说明：部分免费 App 可能要求付款方式](https://support.apple.com/en-us/118429)
+- [修改国家或地区：独立流程](https://support.apple.com/en-us/118283)
